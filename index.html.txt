@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Ren Bao Chiang | Personal Website</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <header>
+    <h1>Ren Bao Chiang</h1>
+
+    <p>
+      Gamer, creator, and someone who enjoys exploring new worlds and experiences.
+    </p>
+
+    <a href="#about" class="button">Learn More</a>
+  </header>
+
+
+  <section id="about">
+
+    <h2>Introduction</h2>
+
+    <div class="card">
+
+      <p>
+        Hi, I'm Ren Bao Chiang. Welcome to my personal website.
+        I enjoy gaming, discovering new experiences, and spending time
+        with the games I enjoy.
+      </p>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <h2>Games I Play</h2>
+
+
+    <div class="games">
+
+
+      <div class="card">
+
+        <h3>World of Tanks Blitz</h3>
+
+        <p>
+          World of Tanks Blitz is a fast-paced mobile tank battle game.
+          I enjoy the strategy, teamwork, and variety of vehicles available.
+        </p>
+
+      </div>
+
+
+
+      <div class="card">
+
+        <h3>Honkai: Star Rail</h3>
+
+        <p>
+          Honkai: Star Rail is a turn-based RPG with a story-driven universe,
+          unique characters, and exciting combat.
+        </p>
+
+      </div>
+
+
+    </div>
+
+  </section>
+
+
+
+  <section>
+
+    <h2>Contact</h2>
+
+
+    <div class="card">
+
+      <p>Email: chiangchiangchiangchiang1001@gmail.com</p>
+
+      <p>Work Phone: 347 282 1413</p>
+
+    </div>
+
+
+  </section>
+
+
+
+  <footer>
+
+    © 2026 Ren Bao Chiang
+
+  </footer>
+
+
+</body>
+
+</html>
