@@ -110,8 +110,8 @@ body {
     padding: 30px;
 }
 
-.home .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("backgrounder.jpeg");
+.home-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("backgrounder.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
