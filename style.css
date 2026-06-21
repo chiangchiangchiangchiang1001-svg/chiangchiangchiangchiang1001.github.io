@@ -208,10 +208,27 @@ body {
 }
 
 
+.home .hero {
+
+    background-image:
+    linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.35)),
+    url("backgrounder.jpg");
+
+    background-size:cover;
+
+    background-position:center;
+
+    background-repeat:no-repeat;
+
+}
+
+
 
 .hero h1 {
 
     font-size:75px;
+
+    text-shadow:0 4px 18px rgba(0,0,0,.55);
 
 }
 
@@ -222,6 +239,8 @@ body {
     font-size:22px;
 
     margin-top:20px;
+
+    text-shadow:0 3px 14px rgba(0,0,0,.55);
 
 }
 
@@ -276,6 +295,26 @@ body {
 h1,h2 {
 
     margin-bottom:20px;
+
+}
+
+
+
+.email-link {
+
+    color:#1a5fd0;
+
+    font-weight:bold;
+
+    text-decoration:none;
+
+}
+
+
+
+.email-link:hover {
+
+    text-decoration:underline;
 
 }
 
